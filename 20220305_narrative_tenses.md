@@ -22,3 +22,31 @@
 8. had fallen 
 9. had never seen
 10. had you been walking
+
+##### Miro
+###### a
+1. had finished/hadn't noticed/has stopped
+2. had been carefully saving/had been concentrating/had been watching/had only been looking
+3. was leaving/was happening/were looking/searching?
+
+###### b
+2. asked
+3. mentioned
+4. had been looking
+5. had accused
+6. had been searching
+7. made
+8. had said
+9. jumped up
+10. made
+11. had never seen
+12. drove
+13. parked
+14. had taken place
+15. came
+16. started
+17. had never stolen
+18. made
+19. found
+20. had stopped
+21. were watching
