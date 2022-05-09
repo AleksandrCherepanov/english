@@ -44,8 +44,59 @@
 9. desperate
 
 ###### c
-2.
-3.
-4.
-5.
-6.
+2. sick of
+3. scared stiff
+4. shattered
+5. gobsmacked
+6. gutted
+
+###### d
+1. desperate, gobsmacked, grateful, gutted, homesick, horrified, lonely, miserable, shattered
+2. bewildered, delighted, offended, relieved, upset
+3. devastated, disappointed, overwhelmed
+
+###### f
+1. I was upset when I failed my driving exam
+2. I was gobsmacked when I found out how the working process is in VK
+3. When I saw a spider I was horrified
+4. I've never been lonely
+5. When I visited Erevan I was shattered because of connection flights
+6. I was delighted playing the Elden Ring
+
+##### Grammar
+###### a
+2. hadn't taken
+3. wouldn't have 
+4. would
+5. would have
+6. would have been
+7. wouldn't be able
+8. had known
+9. had
+10. had stayed
+
+###### b
+2. we would have made a snowman
+3. I had known the water was so cold
+4. he didn't get so nervous
+5. we wouldn't have missed the last bus
+6. you wouldn't get sunburnt
+7. they had read the book
+8. I could buy my own flat
+
+###### c
+2. hadn't gone
+3. you would have had
+4. you got lost
+5. the others hadn't kept
+6. a helicopter would see
+7. would you do
+8. you didn't have
+
+###### d
+1. I would be able to live abroad
+2. I would be the happiest person on Earth
+3. I could teach other people
+4. I could have been more happy or more miserable as well
+5. I would have been a peasant
+6. I could have done my homework not so late
