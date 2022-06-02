@@ -1,0 +1,174 @@
+App\Attribute\Exception\AttributeNotFoundException : 9901 : store.attribute.not.found
+App\Attribute\Exception\AttributeValueLimitException : 9908 : store.attribute.value.limit
+App\Attribute\Exception\AttributeValuesPerItemLimitException : 9909 : store.attribute.value.per_item_limit
+App\Attribute\Exception\AttributesPerItemLimitException : 9908 : store.attribute.per_item_limit
+App\Attribute\Exception\DuplicateAttributeException : 9904 : store.attribute.duplicate
+App\Attribute\Exception\DuplicateValueException : 9907 : store.attribute.value.duplicate
+App\Attribute\Exception\ValueNotFoundException : 9906 : store.attribute.value.not.found
+App\Common\Doctrine\Json\Hydrator\ClassNotJsonException : 1002 : Incorrect use/implementation of PHP services
+App\Common\Exceptions\CustomCalculationEnabledException : 1000 : 
+App\Common\Exceptions\EnvironmentException : 1001 : Unsupported environment used to run application
+App\Common\Exceptions\ImplementationException : 1002 : Incorrect use/implementation of PHP services
+App\Common\Exceptions\InvalidEncodingException : 1016 : Invalid encoding of the request!
+App\Common\Exceptions\InvalidUuidValueException : 1017 : Invalid uuid value
+App\Common\Exceptions\LocaleNotFoundException : 1004 : Locale not found
+App\Common\Exceptions\UploadFileException : 1021 : 
+App\Common\Exceptions\UserAuthorizationException : 1501 : Authorization failed
+App\Common\Lock\DeadlockException : 1000,1021 : 
+App\Common\Middleware\Project\Exception\HttpForbiddenException : 1000 : 
+App\Common\Session\Exception\AuthorizationTokenNotFoundException : 1501 : Authorization failed
+App\Common\Session\Exception\UnauthorizedSessionAuthorizationException : 1501 : Authorization failed
+App\Common\Session\Exception\UnauthorizedSessionIsNotAllowedException : 1501 : Authorization failed
+App\Controller\Exceptions\InvalidRequestDataException : 1000 : 
+App\Coupons\Exceptions\CouponException : 1200 : Exception with coupon module
+App\Coupons\Exceptions\CouponRedeemEmptyOperationException : 1201 : Parameter: operation_id is empty
+App\Distribution\Exception\BasicDistributionHubAuthenticationException : 1000 : 
+App\Distribution\Exception\DistributionHubNotFoundException : 1000 : 
+App\Distribution\Exception\DistributionHubNotUniqueExternalIdException : 1000 : 
+App\Distribution\Exception\ProjectTransactionInfoRequestException : 1803 : Project transaction ID request failed
+App\Entitlement\Exception\AlreadyHasEntitlementException : 5101 : store.entitlement.user.has.entitlement
+App\Entitlement\Exception\EntitlementExceedsLimitException : 5104 : 
+App\Entitlement\Exception\EntitlementNotFoundException : 5102 : store.entitlement.not.found
+App\Entitlement\Exception\NonDrmFreeEntitlementException : 5103 : store.entitlement.non.drm.free
+App\Entitlement\Exception\PinCodeAlreadyRedeemedException : 5107 : 
+App\Entitlement\Exception\UnresolvedEntitlementOperationException : 5105 : 
+App\Entitlement\Exception\UnsupportedEntitlementItemException : 5106 : 
+App\Order\Exception\OrderInvalidStatusException : 9006 : Order status is invalid
+App\Order\Exception\OrderNotFoundException : 9001 : Order not found
+App\Order\Exception\UpdateOrderBillingInfoException : 9001,9002 : Internal Error
+App\Order\Exception\UpdateOrderException : 1000,9002 : Internal Error
+App\Pages\Exception\UserIdNotProvidedException : 1000,3501 : 
+App\Pages\Service\CartPageChecker\Exceptions\GamesAreNotSupportedException : 1422 : Games are not supported.
+App\Pages\Service\Validator\Exception\EmptyFieldException : 1102 : , is required
+App\Pages\Service\Validator\Exception\InvalidEmailException : 1102 : ,Invalid email format
+App\Pages\Service\Validator\Exception\InvalidFormatException : 1102 : , has invalid format
+App\Pages\Service\Validator\Exception\MaxLengthException : 1102 : , must be 0 characters long
+App\Pages\Service\Validator\Exception\MinLengthException : 1102 : , must be more than 0 characters
+App\Paystation\CurrencyConvert\Exceptions\RateExchangeRequestException : 1000,3001 : 
+App\Paystation\Exceptions\PaystationAuthorizationException : 2001 : Authorization failed
+App\Paystation\Exceptions\PaystationException : 2000 : Exception with PayStation service
+App\Paystation\Exceptions\PaystationTaxCategoryException : 2002 : Tax category for cart not found
+App\Paystation\SavedPaymentAccounts\Exceptions\SavedPaymentAccountsRequestException : 1000,3002 : 
+App\PreOrder\Exception\PreOrderCanNotBeCanceledException : 6001 : Pre order can not be canceled.
+App\PreOrder\Exception\PreOrderNotBelongThisUser : 6003 : Pre order not belong this user.
+App\PreOrder\Exception\PreOrderNotFoundException : 6002 : Pre order not found.
+App\Promotion\Adapter\Exception\PromotionItemCalculateException : 9501 : Promotion service invalid response
+App\Promotion\Adapter\Version2\Exception\GetPromotionException : 9502 : Error occurred receiving the promotion from the promotion service
+App\Promotion\Adapter\Version2\Exception\GetPromotionsException : 9503 : Error occurred receiving the list of promotions from the promotion service
+App\Promotion\Adapter\Version2\Exception\PromotionBonus\PromotionBonusNonConsumableItem : 9509 : 
+App\Promotion\Adapter\Version2\Exception\PromotionCreateException : 9506 : Error was occurred while promotion was being created
+App\Promotion\Adapter\Version2\Exception\PromotionInvalidDateException : 9504 : Period of promotion is invalid. Please, check the dates in your request
+App\Promotion\Adapter\Version2\Exception\PromotionInvalidItemException : 9507 : One or more items were not found in your project. Please check the list of items
+App\Promotion\Adapter\Version2\Exception\PromotionItemInvalidPercentException : 9508 : Percent must be positive number (like 15.99 or 10)
+App\Promotion\Adapter\Version2\Exception\PromotionNotFoundException : 9502 : 
+App\Promotion\Adapter\Version2\Exception\PromotionUpdateException : 9505 : Error was occurred while promotion was being updated
+App\Promotion\Cart\Exception\EmptyCartException : 1417 : Empty cart! Cart shouldn't be empty!
+App\Promotion\Promotion\Exception\PromotionNotFoundException : 1101 : Promotion not found
+App\RegLock\Version2\Exception\RegionForbiddenException : 1601 : 
+App\Store\Cart\Exception\BuyNonConsumableItemException : 1422 : 
+App\Store\Cart\Exception\CartNotFoundException : 1000 : 
+App\Store\Cart\Exception\CartUnprocessableItemException : 1000 : 
+App\Store\Cart\Exception\CustomCalculationCartInvalidException : 1000 : 
+App\Store\Cart\Version2\Service\Consistency\Exception\CartInconsistencyException : 1000,1421 : 
+App\Store\Cart\Version2\Service\UserDataCollector\Exception\PaymentMethodNotFoundException : 1000,1452 : 
+App\Store\Cart\Version2\Service\UserDataCollector\Exception\UserDataRequiredException : 1000,9003 : Provide required for purchase user data
+App\Store\Coupon\Version2\Exception\ClientCouponNotFoundException : 9807 : store.coupon.not.found
+App\Store\Coupon\Version2\Exception\CouponCodeAlreadyExistException : 9803 : 
+App\Store\Coupon\Version2\Exception\CouponDoesntGiveBonusItemsException : 9803 : store.coupon.redeem.empty.bonus
+App\Store\Coupon\Version2\Exception\CouponExpiredException : 9810 : store.coupon.expired
+App\Store\Coupon\Version2\Exception\CouponForbiddenException : 9808 : 
+App\Store\Coupon\Version2\Exception\CouponHasNoRedeemStrategyException : 9806 : store.coupon.redeem.empty.bonus
+App\Store\Coupon\Version2\Exception\CouponHasNoRewardCalculationStrategyException : 9806 : store.coupon.redeem.empty.bonus
+App\Store\Coupon\Version2\Exception\CouponNotFoundException : 9802 : Coupon not found
+App\Store\Coupon\Version2\Exception\CouponRedeemLimitExceededException : 9804 : 
+App\Store\Coupon\Version2\Exception\CouponWrongSelectedRewardException : 9809 : store.coupon.redeem.wrong.selected.reward
+App\Store\Coupon\Version2\Exception\PromoCodeToEmptyCartException : 9805 : store.promo.code.redeem.empty.cart
+App\Store\Coupon\Version2\Exception\RedeemDisabledCouponException : 9803 : Cannot redeem disabled coupon
+App\Store\Coupon\Version2\Exception\RedeemInvalidCouponTypeException : 9801 : store.coupon.redeem.invalid.type
+App\Store\Entitlement\Version2\Steam\Exception\SteamHttpException : 1000,1101 : ,Steam services not available
+App\Store\Entitlement\Version2\Steam\Exception\SteamIdNotProvidedException : 1000,8003 : ,Authenticate through steam or provide steam_id in access_token
+App\Store\Exception\BasicMerchantHashAuthenticationException : 1000 : 
+App\Store\Exception\BundleSelfContainException : 1000 : 
+App\Store\Exception\ConverterInvalidArgumentsException : 4080 : Invalid arguments passed to converter
+App\Store\Exception\CurrencyNotFoundException : 1000 : 
+App\Store\Exception\DefaultItemPriceNotFoundException : 1000 : 
+App\Store\Exception\DrmNotFoundException : 1000 : 
+App\Store\Exception\DuplicateUnitSkuException : 4503 : 
+App\Store\Exception\EntityNotFoundException : 1000 : 
+App\Store\Exception\GroupAlreadyExistException : 1000 : 
+App\Store\Exception\GroupDeleteException : 1000 : 
+App\Store\Exception\GroupNotFoundException : 1000 : 
+App\Store\Exception\GroupSelfParentException : 1000 : 
+App\Store\Exception\GroupWrongProjectException : 1000 : 
+App\Store\Exception\InvalidDataException : 4504 : 
+App\Store\Exception\ItemAttributeNotFoundException : 4051 : Item attribute not found
+App\Store\Exception\ItemAttributeOfUnknownTypeException : 4053 : Item attribute of unknown type
+App\Store\Exception\ItemAttributeRuleNotFoundException : 1000 : 
+App\Store\Exception\ItemAttributeWrongValueException : 4052 : 
+App\Store\Exception\ItemExistException : 1000 : 
+App\Store\Exception\ItemNotFoundException : 1000 : 
+App\Store\Exception\ItemNotReadyForSaleException : 4082 : Item is not ready for sale
+App\Store\Exception\ItemPriceNotExpectedException : 1000 : 
+App\Store\Exception\ItemPriceNotFoundException : 4054 : Item price not found
+App\Store\Exception\ItemPriceNotSetException : 4055 : Item default price not set
+App\Store\Exception\LdapAuthenticationException : 1000 : 
+App\Store\Exception\MethodWillNotBeImplementedException : 1000,1019 : ,Method is unsupported
+App\Store\Exception\PreOrderSettingsDateInPastException : 1000,4082 : ,Could not set PreOrder release_date in past
+App\Store\Exception\PreOrderSettingsModifyNotAllowedException : 1000,4081 : ,Changing PreOrder settings is not allowed because sales exist
+App\Store\Exception\UserNotFoundException : 1000 : Could not find User
+App\Store\Exception\VirtualGoodAlreadyExistException : 1000 : 
+App\Store\Exception\VirtualGoodNotFoundException : 1000 : 
+App\Store\Exception\VirtualGoodTypeChangeNotAllowedException : 1000 : Changing the type of virtual good is prohibited if virtual good has sales
+App\Store\Exception\XsollaServiceAuthException : 1000 : 
+App\Store\FeatureToggle\Exception\DuplicateFeatureToggleException : 1701 : store.feature.toggle.duplicate
+App\Store\FeatureToggle\Exception\DuplicateProjectFeatureException : 1704 : store.project.feature.duplicate
+App\Store\FeatureToggle\Exception\FeatureToggleNotFoundException : 1702 : store.feature.toggle.not.found
+App\Store\FeatureToggle\Exception\ProjectFeatureNotFoundException : 1703 : store.project.feature.not.found
+App\Store\Game\Exception\DuplicateGameKeyDrmException : 4505 : 
+App\Store\Game\Exception\GameKeyNotFoundException : 4604 : store.game.key.not.found
+App\Store\Game\Exception\KeyDecodingException : 4602 : 
+App\Store\Game\Exception\KeyNotFoundException : 4603 : store.pin_code.not.found
+App\Store\Game\Exception\KeysLimitExceededException : 4601 : 
+App\Store\Game\Exception\NotEnoughKeysToRequestException : 4506 : 
+App\Store\Inventory\Exception\ConsumeNonConsumableItemException : 5007 : Impossible consume non consumable item
+App\Store\Inventory\Exception\ExternalPurchaseIsEmpty : 5009 : There is no purchase in request
+App\Store\Inventory\Exception\InvalidItemInputException : 5002 : Quantity either instance id must be null. Item id must be specified
+App\Store\Inventory\Exception\InvalidItemSourceException : 5005 : Item is not found on requester side
+App\Store\Inventory\Exception\InvalidUserInputException : 5003 : User id must be specified
+App\Store\Inventory\Exception\InventoryPositionNotFoundException : 5004 : Could not find instance in inventory
+App\Store\Item\Service\Exception\InvalidEntityTypeException : 1000 : 
+App\Store\Item\Service\Exception\InvalidRuleException : 1000 : 
+App\Store\Item\Service\Exception\PhysicalGoodPreOrderSettingRestrictedException : 4083 : Turning on pre-order setting is restricted while you have available items in an inventory. Please, update the inventory and clean available items.
+App\Store\Merchant\Exception\MerchantNotFoundException : 1000 : 
+App\Store\Payment\Exception\InvalidCartException : 1401 : Invalid cart
+App\Store\Payment\Exception\InvalidItemException : 1411 : Invalid item
+App\Store\Payment\Version2\Exception\AFSCheckException : 1000 : 
+App\Store\Payment\Version2\Exception\NotEnoughVirtualCurrencyException : 1000,5006 : ,Not enough virtual currency
+App\Store\Payment\Version2\Exception\PostponedFeatureNotEnabledException : 1000 : 
+App\Store\PhysicalGood\Version2\Exception\DeliveryMethodNotFoundException : 1000,2504 : 
+App\Store\PhysicalGood\Version2\Exception\DeliveryServiceHttpException : 1000,2503 : 
+App\Store\PhysicalGood\Version2\Exception\PhysicalInsufficientStockException : 1000,1023 : 
+App\Store\PhysicalGood\Version2\Exception\PhysicalShippingServiceHttpException : 1000,1103 : 
+App\Store\PhysicalGood\Version2\Exception\PhysicalShippingServiceInvalidInputException : 1000,1103 : 
+App\Store\PhysicalGood\Version2\Take2\Exception\RequestIdNotProvidedException : 1000,9005 : 
+App\Store\PhysicalGood\Version2\Take2\Exception\Take2ConfirmationException : 1000,9004 : 
+App\Store\Price\Exception\ItemPriceFileValidationException : 1000 : 
+App\Store\PriceTier\Exception\TierNotFoundException : 1000 : 
+App\Store\ProjectWebhook\Version2\Exception\DeliveryServiceHttpException : 2503 : 
+App\Store\Region\Exception\CountryNotFoundException : 9703 : Country not found
+App\Store\Region\Exception\RegionNotFoundException : 9701 : Region not found
+App\Store\Region\Exception\RegionNotLinkedException : 9704 : 
+App\Store\Region\Exception\RegionWithCountryExistException : 9702 : 
+App\Store\VirtualCurrency\Version2\Admin\Exception\IllegalBundleDeleteException : 1000,4306 : ,Item is not a virtual currency package
+App\Store\VirtualCurrency\Version2\Admin\Exception\IllegalBundleTypeConversionException : 1000,4304 : ,Cannot convert bundle type
+App\Store\VirtualCurrency\Version2\Admin\Exception\InvalidItemCountException : 1000,4305 : ,Virtual Currency Package must contain exactly 1 position of virtual currency
+App\Store\VirtualCurrency\Version2\Admin\Exception\InvalidItemTypeException : 1000 : 
+App\Store\Widget\Version2\Exception\WidgetInitIncorrectInputException : 9601 : Incorrect input data for widget initialization
+App\Store\Widget\Version2\Exception\WidgetItemNotAvailableForSaleException : 9603 : Item is not available for sale (item is free or no price is set in real currency).
+App\Store\Widget\Version2\Exception\WidgetItemNotFoundException : 9602 : Item not found
+App\Store\Widget\Version2\Exception\WidgetSecureException : 9603 : 
+App\Translation\Exception\TranslationNotFoundException : 1003 : 
+App\XsollaLogin\Exceptions\XsollaLoginAuthorizationException : 8002 : Authorization failed
+App\XsollaLogin\Exceptions\XsollaLoginException : 8000 : Exception with xsolla login module
+App\XsollaLogin\Exceptions\XsollaLoginGetJwtException : 8001 : Cannot receive Xsolla Login JWT
+
