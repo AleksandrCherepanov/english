@@ -66,3 +66,26 @@
 2. It's a kind of vegetable. It smells strange and a lot pf people don't like it. It's can be used as a weapon against vampires.
 3. It's a kind of milk product. It smells horrible and tastes even worse. But someone likes it and usually eats with wine.
 4. It's a kind of cat. It feels soft and warm.
+
+##### Miro
+2. smells
+3. smells as if
+4. smells like
+5. feels
+6. feels like
+7. feels as if
+8. feels 
+9. tastes
+10. tastes like
+11. tastes as if
+12. tastes
+13. look as if
+14. look
+15. look as if
+16. looks
+17. looks like
+18. looks
+19. sounds
+20. sounds
+21. sounds as if
+22. sound like
