@@ -12,7 +12,7 @@
 
 ###### b
 1. Both the kitchen and the bathroom **need** cleaning.
-2. **Neither** of the food **was** cheap nor tasty.
+2. The food **was neither** cheap nor tasty.
 3. + 
 4. My sister and I **were** both late for school.
 5. It's **either** Jane's or Karen's birthday today.
@@ -20,11 +20,11 @@
 7. **None of** my best friends called to see how I was.
 8. We can **either** walk or take the bus.
 9. +
-10. We can **either** go on holiday in July or August.
+10. We can go on holiday **either** in July or August.
 
 ##### TG
 ###### a
-2. both of them, both
+2. either of them, both
 3. everything
 4. all day, any
 5. they all passed
