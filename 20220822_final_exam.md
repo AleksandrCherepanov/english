@@ -4,7 +4,7 @@
 2. wouldn't
 3. if
 4. like
-5.  
+5. such **-**
 6. nor
 7. use
 8. if
@@ -14,32 +14,32 @@
 12. no
 13. must
 14. get
-15. rather
+15. better ~~rather~~
 
 ###### 2
 1. despite
 2. **-**
-3. neither
+3. None ~~neither~~
 4. Petra lives
 5. **-**
-6. unemployed
+6. The unemployed ~~unemployed~~
 7. lovely little wooden
 8. so as not to
 9. the furniture
 10. often play music
 
 ###### 3
-1. have practiced
+1. have been practicing ~~have practiced~~
 2. hadn't asked
-3. wil have learn
+3. will have learn
 4. sending
-5. was redecorated
-6. discuss
+5. was being redecorated ~~was redecorated~~
+6. have discussed ~~discuss~~
 7. had alredy left
-8. didn't buy
-9. run over
-10. have been writing
-11. wouldn't have sat	
+8. hadn't bought ~~didn't buyi~~
+9. has been run over ~~run over~~
+10. had been writeing ~~have been writing~~
+11. wouldn't be sitting ~~wouldn't have sat~~
 12. is reported
 13. get
 14. will be still working
@@ -69,7 +69,7 @@
 8. raise
 9. sick
 10. account
-11. performances
+11. encores ~~performances~~
 12. blisters
 13. suits
 14. fast
@@ -83,7 +83,7 @@
 5. lungs
 6. yawn
 7. loose
-8. landing ground
+8. runaway ~~landing ground~~
 9. conductor
 10. fisted
 11. editor
@@ -114,7 +114,7 @@
 6. baggage
 7. machine
 8. linen
-9. presenter
+9. bilingual ~~presenter~~
 10. hooded
 
 ##### Reading
@@ -122,7 +122,7 @@
 2. B
 3. A
 4. A
-5. B
+5. B ~~C~~
 
 ##### Listening
 ###### 1
@@ -130,7 +130,7 @@
 2. F
 3. C
 4. A
-5. B
+5. B 
 
 ###### 2
 1. must prove 
