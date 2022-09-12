@@ -35,7 +35,7 @@ The first one means you have already finished your thinking process.
 5. hand't ever used
 
 ###### 8
-1. hasn't never owned
+1. has never owned
 2. had been driving
 3. have been trying
 4. will have saved
