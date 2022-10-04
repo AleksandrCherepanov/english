@@ -2,16 +2,16 @@
 1. food which is thrown away uselessly
 2. reduce food waste, feed poor people
 3. they passed the cafe as safe and gave three out of five stars
-4. 10000 people were fed and now one has got ill
+4. 10000 people were fed and no one has got ill
 5. don't waste food
 
 ##### 2
 1. has opened
 2. has been working 
-3. has lived
+3. lived
 4. hand't thought
 5. became obsessed
-6. was
+6. will have been
 
 ##### 3
 1. half
