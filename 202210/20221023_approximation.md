@@ -1,7 +1,7 @@
 ##### 3
 1. b (I have just over twenty notifications on Facebook)
 2. a (I spend about two-and-a-half hours a day dealing with text messages)
-3. b (We arrived nearly 6:00)
+3. a (We arrived at six or so)
 4. b (My friend Jeremy gets as few as five or ten emails a day)
 5. a (It took me roughly two hours to go through my email this morning)
 6. b (Some guy keeps sending me contact requests on LinkedIn)
@@ -23,7 +23,7 @@
 2. You can rent a room here for **as little as** 500 per month.
 3. We have 600 employees **or** thereabouts.
 4. Pietro is **tallish** and will be wearing a blue suit.
-5. They got **some**
+5. They got **some** polition or other
 6. Have you got a lot of **things** to move?
 
 
@@ -41,7 +41,7 @@
 3. horrible
 4. embarassed
 5. uncomfortable
-6. nervousness
+6. nervous
 
 ##### 3
 1. write a song which will exploit his condition
@@ -50,7 +50,7 @@
 4. only when he is really nervous
 
 ##### 4
-1. c
+1. c 
 2. b
 3. a
 4. d
