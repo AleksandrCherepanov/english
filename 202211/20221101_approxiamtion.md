@@ -19,7 +19,7 @@
 ##### 8
 1. It has a surface area of approximately 150 to 200.
 2. weight's about 1,300 gramms and it's roughly the size of a small
-3. 20 per cent of the oxigen and 20 per cent of the energe needed by
+3. 20 per cent of the oxigen and 20 per cent of the energy needed by
 4. up to 11 million bits of information per second for processing
 5. the brain conscientiously processes some 50 bits per
 
@@ -32,10 +32,10 @@
 ##### 2
 1. N 
 2. E
-3. DS
+3. DS (N)
 4. DS
 5. E 
-6. N
+6. N (E)
 
 ##### 3
 1. a naming consultant
