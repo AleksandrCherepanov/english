@@ -35,12 +35,12 @@
 10. completed
 
 ##### 3
-1. Supposing you were dissatisfied at work, would you apply for a new job.
+1. Supposing you were dissatisfied at work, would you apply for a new job?
 2. If he had a problem at work, he wouldn't talk to his boss.
 3. If I wanted to get a job abroad, I'd update my CV.
 4. I wish my boss offered me a transfer. If he did, I'd take it.
 5. If you were looking for a new job, you could post your CV online.
-6. It's high time you took more responsibility, you could talk to your boss about promotion opportunities.
+6. It's high time you took more responsibility, you should talk to your boss about promotion opportunities.
 
 ##### 4
 1. had seen
@@ -52,30 +52,30 @@
 
 ##### 5
 1. e
-2. c
+2. a
 3. b
-4. a
+4. c
 5. d
 
 ##### 6
 2. Had I realized he'd worked here before, I'd have offered him the position.
-3. Were she updated her CV, she would have a better chance of success.
-4. Were I attended more often, I'd be able to follow the meetings more easily.
+3. Were she to update her CV, she would have a better chance of success.
+4. Were I to attend more often, I'd be able to follow the meetings more easily.
 5. Had it not been for the fact she had the idea, she wouldn't have set up her own business.
-6. Were he accepted the job abroad, he wouldn't go back to university.
+6. Were he to accept the job abroad, he wouldn't go back to university.
 7. Had it not been for the fact I failed that interview, I wouldn't have done the course that led to this job.
-8. Were we employed more women and some younger people, we'd have more diverse ideas.
+8. Were we to employ more women and some younger people, we'd have more diverse ideas.
 
 ##### 7
 1. Had I known
 2. would take
 3. Had it not been for 
 4. Were
-5. would have take
+5. would have taken
 6. Were
 
 ##### 8
-1. I were offeren early retirenment, would I take it?
+1. I were offered early retirenment, would I take it?
 2. I do wish I had more time at home, so, I probably would.
 3. I'd looking for volunteer work either abroad or locally.
 4. Were I wolunteer, I'd work with people in need.
