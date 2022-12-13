@@ -15,8 +15,8 @@
 
 ##### 3
 1. Had I played music, I'd not have got into truble
-2. Should you need any advise ask please
-3. Were you able to buy a violine, I'd do so
+2. Should you need any advise please ask
+3. Were I able to buy a violine, I'd do so
 4. It's high time we made a decision
 5. We play music together in order to play cooperation
 6. He practised music a lot so as not to fail the exam
@@ -41,7 +41,7 @@
 6. I'd go along with
 7. The same goes for
 8. What are our
-9. I really fance 
+9. I really fancy
 10. Any votes for 
 11. let's give that a try
 12. sounds like a plan

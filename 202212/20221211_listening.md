@@ -4,7 +4,7 @@
 3. vegeterian +
 4. outside -
 5. tap -+ (free)
-6. complaina +
+6. complain +
 7. staff +
 
 ##### 2
@@ -17,7 +17,7 @@
 7. don't flirt with waitresses and don't ask foreign staff where they from
 
 ##### 3
-1. 
+1. fiddly
 2. gobbles up
 3. chew on
 4. stuff
