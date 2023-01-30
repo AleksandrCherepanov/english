@@ -4,7 +4,7 @@
 3. absolutely right
 4. icredibly expensive
 5. agree entirely
-6. completely crowded
+6. really crowded
 7. the least bit interested
 8. in the least what I expected
 
@@ -50,6 +50,6 @@
 1. The temperature at the beach was absolutely boiling
 2. We were relly late for the plane, so we missed it
 3. I had no fun whatsoever sitting around the hotel pool
-4. The bungalow we stayed in was completely perfect
+4. The bungalow we stayed in was totally perfect
 5. I'm afraid I disagree with you entirely about the hotel being comfortable
 6. We had so good time in Bali
